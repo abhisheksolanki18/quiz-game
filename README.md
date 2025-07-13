@@ -1,6 +1,6 @@
 🚀 Live Demo
 🔗 Click here to try the live demo
-(Replace with your actual GitHub Pages link after deployment.)
+https://abhisheksolanki18.github.io/quiz-game/
 
 📂 Features
 ~Clean and user-friendly interface
