@@ -1,6 +1,6 @@
 🚀 Live Demo
 🔗 Click here to try the live demo
-https://abhisheksolanki18.github.io/quiz-game/
+(https://abhisheksolanki18.github.io/quiz-game/)
 
 📂 Features
 
